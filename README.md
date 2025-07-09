@@ -1,23 +1,29 @@
-👋 Hi 👋, I'm Varat Thapa!
-A passionate Web Developer from Nepal
+👋 Hi 👋, I'm Varat Thapa !
 
+A dedicated Front-End Web Developer specializing in React.js :rocket: and Next.js :globe_with_meridians:, passionate about crafting dynamic and user-friendly web experiences. I recently graduated with a BSc in Information Technology (BSc IT) :mortar_board: from London Metropolitan University.
 
-A dedicated Front-End Web Developer specializing in React.js and Next.js, passionate about crafting dynamic and user-friendly web experiences. I recently graduated with a BSc in Information Technology (BSc IT) from London Metropolitan University.
 🌱 I’m currently learning
 
-Advanced React optimizations
+Advanced React optimizations 
+TypeScript integration with Next.js :computer:
 
-TypeScript integration with Next.js
 
-Web accessibility (a11y) best practices
+
+Web accessibility (a11y) best practices :eye:
+
+💻 Programming Languages & Tools
+React.js
+Next.js
+JavaScript :javascript:
+TypeScript :typescript:
+HTML :html5:
+CSS :css3:
+Git :git:
 
 📫 How to reach me
-varat.thapa21@gmail.com
+
+varat.thapa21@gmail.com :email:
 
 ⚡ Fun fact
+I enjoy experimenting with UI/UX designs in my free time! 🎨 :art:
 
-I enjoy experimenting with UI/UX designs in my free time! 🎨
-
-🏆 GitHub Achievements
-
-(Will update as I earn them!)
