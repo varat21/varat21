@@ -14,6 +14,8 @@ Web accessibility (a11y) best practices :eye:
 💻 Programming Languages & Tools
 React.js
 Next.js
+Python
+SQL
 JavaScript :javascript:
 TypeScript :typescript:
 HTML :html5:
