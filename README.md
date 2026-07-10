@@ -14,7 +14,7 @@
 
 I'm a dedicated **Front-End Web Developer** specializing in **React.js** and **Next.js**, passionate about building dynamic, accessible, and user-friendly web experiences. Alongside front-end development, I'm expanding into **Data Science with Python**, combining interface design with data-driven problem solving.
 
-- 🎓 **BSc (Hons) Information Technology** — London Metropolitan University
+- 🎓 **BSc (Hons) Computing** — London Metropolitan University
 - 📘 Currently pursuing an **MBA in Information Technology (MBA-IT)** at the **School of Management, Tribhuvan University**
 - 💼 Focused on building performant, scalable web applications and exploring data-driven solutions
 - 🎨 In my free time, I enjoy experimenting with UI/UX design
