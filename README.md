@@ -55,22 +55,6 @@ I'm a dedicated **Front-End Web Developer** specializing in **React.js** and **N
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=varat-thapa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=varat-thapa&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varat-thapa&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-> ℹ️ Replace `varat-thapa` in the stats badges above with your actual GitHub username so the widgets pull your real data.
-
----
 
 ### 📫 Let's Connect
 
