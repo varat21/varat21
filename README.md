@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Varat Thapa 👋</h1>
+<h1 align="center">Hi there, I'm HB Thapa 👋</h1>
 
 <h3 align="center">Front-End Web Developer | React.js & Next.js Specialist | Aspiring Data Scientist</h3>
 
